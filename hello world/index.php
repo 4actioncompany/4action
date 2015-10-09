@@ -4,4 +4,4 @@ echo"test2";
 
 echo "zmiana 2";
 
-echo "zmiana 3";
+echo "zmiana w masterze";
