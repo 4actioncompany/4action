@@ -6,6 +6,4 @@ echo "zmiana 2";
 
 echo "zmiana w dev 1";
 echo "dodatkowa linijka w dev 1";
-
-zmiana w dev 1
-zmiana 2
+echo 'dev 1';
